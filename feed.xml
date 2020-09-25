@@ -1,64 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
-    <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
-    <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
-    </image>
+    <title>Cevrimici Cocukluk</title>
+    <link>https://twitter.com/cevrimicicocuk1</link>
+    <description>Çevrimiçi Çocukluk, çocukların özellikle pandemi döneminde yaşadığı sorunları konuşmayı, sorunlar hakkında farkındalık yaratmayı ve en önemlisi bu konuda çalışan paydaşları bir araya getirmeyi amaçlar.
+    </description>
+    <language>tr</language>
+    <author>Cevrimici Cocukluk</author>
+    <itunes:author>Cevrimici Cocukluk</itunes:author>
+    <itunes:category text="Government"/>
+    <itunes:category text="Culture"/>
+    <itunes:category text="Educational podcasts"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://cevrimicicocukluk.github.io/podcast-player/player/web/img/icon.png" />
+    <itunes:email>cevrimicicocukluk@gmail.com</itunes:email>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Cevrimici Cocukluk</itunes:name>
+      <itunes:email>cevrimicicocukluk@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
-    <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <!-- Example episode = item-->
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <title>Episode 09: To Be Suspected</title>
+      <description>New information is coming in about what maybe did not happen on
+January 13, 1999. And while the memory of that day is foggy at best, he does remember what
+happened next: being questioned, being arrested and, a little more than a year later, being
+sentenced to life in prison.</description>
+      <pubDate>Mon, 28 Sep 2020 10:30:00 CET</pubDate>
+      <!-- <itunes:order>9</itunes:order> -->
       <itunes:duration>54:08</itunes:duration>
+      <enclosure url="https://cevrimicicocukluk.github.io/podcast-player/player/web/audio/01-create-eng.mp3" type="audio/mpeg" />
+      <!-- CHANGE BELOW-->
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
-        </description>
     </item>
+    <!-- Add new items for new episodes-->
   </channel>
 </rss>
