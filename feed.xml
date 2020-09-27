@@ -4,9 +4,11 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:844861741/sounds.rss" rel="self" type="application/rss+xml"/>
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:844861741/sounds.rss?before=848094391" rel="next" type="application/rss+xml"/>
         <title>Cevrimici Cocukluk</title>
-        <link>https://soundcloud.com/cevrimici-cocukluk</link>
-        <pubDate>Fri, 18 Sep 2020 16:38:25 +0000</pubDate>
-        <lastBuildDate>Fri, 18 Sep 2020 16:38:25 +0000</lastBuildDate>
+        <link>https://twitter.com/cevrimicicocuk1</link>
+        <description>Çevrimiçi Çocukluk, çocukların özellikle pandemi döneminde yaşadığı sorunları konuşmayı, sorunlar hakkında farkındalık yaratmayı ve en önemlisi bu konuda çalışan paydaşları bir araya getirmeyi amaçlar.</description>
+        
+        <!-- <pubDate>Fri, 18 Sep 2020 16:38:25 +0000</pubDate> -->
+        <!-- <lastBuildDate>Fri, 18 Sep 2020 16:38:25 +0000</lastBuildDate> -->
         <ttl>60</ttl>
         <language>tr</language>
         <copyright>All rights reserved</copyright>
@@ -26,6 +28,7 @@
           <link>https://soundcloud.com/cevrimici-cocukluk</link>
         </image>
         <itunes:category text="Society &amp; Culture"/>
+        <!-- NEW EPISODES HERE -->
         <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/895517269</guid>
       <title>Herkes İçin Programlama Ortamı: Kart - ON</title>
