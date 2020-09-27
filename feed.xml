@@ -1,38 +1,246 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Cevrimici Cocukluk</title>
-    <link>https://twitter.com/cevrimicicocuk1</link>
-    <description>Çevrimiçi Çocukluk, çocukların özellikle pandemi döneminde yaşadığı sorunları konuşmayı, sorunlar hakkında farkındalık yaratmayı ve en önemlisi bu konuda çalışan paydaşları bir araya getirmeyi amaçlar.
-    </description>
-    <language>tr</language>
-    <author>Cevrimici Cocukluk</author>
-    <itunes:author>Cevrimici Cocukluk</itunes:author>
-    <itunes:category text="Government"/>
-    <itunes:category text="Culture"/>
-    <itunes:category text="Educational podcasts"/>
-    <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://cevrimicicocukluk.github.io/podcast-player/player/web/img/icon.png" />
-    <itunes:email>cevrimicicocukluk@gmail.com</itunes:email>
-    <itunes:owner>
-      <itunes:name>Cevrimici Cocukluk</itunes:name>
-      <itunes:email>cevrimicicocukluk@gmail.com</itunes:email>
-    </itunes:owner>
-    <!-- Example episode = item-->
-    <item>
-      <title>Episode 09: To Be Suspected</title>
-      <description>New information is coming in about what maybe did not happen on
-January 13, 1999. And while the memory of that day is foggy at best, he does remember what
-happened next: being questioned, being arrested and, a little more than a year later, being
-sentenced to life in prison.</description>
-      <pubDate>Mon, 28 Sep 2020 10:30:00 CET</pubDate>
-      <!-- <itunes:order>9</itunes:order> -->
-      <itunes:duration>54:08</itunes:duration>
-      <enclosure url="https://cevrimicicocukluk.github.io/podcast-player/player/web/audio/01-create-eng.mp3" type="audio/mpeg" />
-      <!-- CHANGE BELOW-->
-      <guid isPermaLink="false">cepod01</guid>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:844861741/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:844861741/sounds.rss?before=848094391" rel="next" type="application/rss+xml"/>
+        <title>Cevrimici Cocukluk</title>
+        <link>https://soundcloud.com/cevrimici-cocukluk</link>
+        <pubDate>Fri, 18 Sep 2020 16:38:25 +0000</pubDate>
+        <lastBuildDate>Fri, 18 Sep 2020 16:38:25 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>tr</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Cevrimici Cocukluk</description>
+        <itunes:subtitle>Podcast by Cevrimici Cocukluk</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Cevrimici Cocukluk</itunes:name>
+          <itunes:email>cevrimicicocukluk@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Cevrimici Cocukluk</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-nY5rJENxFYHOvuMv-V9DlwQ-original.jpg"/>
+        <image>
+          <url>https://i1.sndcdn.com/avatars-nY5rJENxFYHOvuMv-V9DlwQ-original.jpg</url>
+          <title>Cevrimici Cocukluk</title>
+          <link>https://soundcloud.com/cevrimici-cocukluk</link>
+        </image>
+        <itunes:category text="Society &amp; Culture"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/895517269</guid>
+      <title>Herkes İçin Programlama Ortamı: Kart - ON</title>
+      <pubDate>Fri, 18 Sep 2020 16:38:25 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/herkes-icin-programlama-ortami-kart-on</link>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast bu bölümünde Kart-ON projesinin kurucusu Alpay Sabuncuoğlu'nu konuk ediyor!
+Yazıcıdan çıktı alıp kartlarla ve telefon uygulaması ile çocuklara algoritmik bir şekilde problem çözmeyi öğreten ve programlama, kodlama konularında MEB ile uyumlu içerik üreten Kart-On projesinin görme engelliler için geliştirilen müzik kitini, Kod Saati ve Etkileşimli Hikaye isimli çalışmalarını ve merak ettiğiniz diğer tüm detaylarını kayıttan dinleyebilirsiniz.
+Çevrimiçi Çocukluk Twitter Hesabı: @cevrimicicocuk1
+Kart-ON projesi Websitesi: https://karton.ku.edu.tr</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast bu bölümünde Kart-ON p…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast bu bölümünde Kart-ON projesinin kurucusu Alpay Sabuncuoğlu'nu konuk ediyor!
+Yazıcıdan çıktı alıp kartlarla ve telefon uygulaması ile çocuklara algoritmik bir şekilde problem çözmeyi öğreten ve programlama, kodlama konularında MEB ile uyumlu içerik üreten Kart-On projesinin görme engelliler için geliştirilen müzik kitini, Kod Saati ve Etkileşimli Hikaye isimli çalışmalarını ve merak ettiğiniz diğer tüm detaylarını kayıttan dinleyebilirsiniz.
+Çevrimiçi Çocukluk Twitter Hesabı: @cevrimicicocuk1
+Kart-ON projesi Websitesi: https://karton.ku.edu.tr</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/895517269-cevrimici-cocukluk-herkes-icin-programlama-ortami-kart-on.mp3" length="64429920"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-JmTO5IaA4fF2wbJA-yJNYLw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/889285834</guid>
+      <title>Çevrimiçi Çocukluk: Özel Gereksinimli Çocuklar ve Dijital Eğitim</title>
+      <pubDate>Mon, 07 Sep 2020 17:16:46 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-ozel-gereksinimli-cocuklar-ve-dijital-egitim-1</link>
+      <itunes:duration>00:12:12</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast'in ikinci sezonuna hoş geldiniz! İkinci sezonumuzda özel gereksinimli çocukların uzaktan eğitim sürecinde deneyimlerini gündeme getiriyoruz. 
+Bu podcast yayınında engelliliğe dair oluşturulan tarihsel süreçleri, kavramsallaştırmaları tartışmaya açıp engelli, sakat, özürlü kelimelerini inceliyoruz. Her türlü normal beden algısını reddettiğimizi belirttiğimiz kayıtta bütün çocukların ihtiyacına yönelik dizayn edilmiş dijital eğitim araçları için çözüm önerilerini dinlemeyi planlıyoruz.
+
+Çevrimiçi Çocukluk Twitter: @cevrimicicocuk1
+Çevrimiçi Çocukluk Medium: @cevrimicicocukluk</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast'in ikinci sezonuna hoş…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast'in ikinci sezonuna hoş geldiniz! İkinci sezonumuzda özel gereksinimli çocukların uzaktan eğitim sürecinde deneyimlerini gündeme getiriyoruz. 
+Bu podcast yayınında engelliliğe dair oluşturulan tarihsel süreçleri, kavramsallaştırmaları tartışmaya açıp engelli, sakat, özürlü kelimelerini inceliyoruz. Her türlü normal beden algısını reddettiğimizi belirttiğimiz kayıtta bütün çocukların ihtiyacına yönelik dizayn edilmiş dijital eğitim araçları için çözüm önerilerini dinlemeyi planlıyoruz.
+
+Çevrimiçi Çocukluk Twitter: @cevrimicicocuk1
+Çevrimiçi Çocukluk Medium: @cevrimicicocukluk</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/889285834-cevrimici-cocukluk-cevrimici-cocukluk-ozel-gereksinimli-cocuklar-ve-dijital-egitim-1.mp3" length="29318975"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-JmTO5IaA4fF2wbJA-yJNYLw-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/870122701</guid>
+      <title>Köy Okulları Değişim Ağı: Kırsalda Nitelikli ve Sürdürülebilir Eğitim</title>
+      <pubDate>Tue, 04 Aug 2020 17:59:55 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/koy-okullari-degisim-agi-kirsaldaki-egitim</link>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast’in Köy Okulları Değişim Ağı’nı  konuk ettiği bölüm yayında! Köy okullarında eğitimin kalitesini artırmak için gönüllülerin bir araya getirdiği KODA ekibinden Menekşe Canatan yayında bizlerle KODA’nın çalışmalarını, pandemi sürecinde neler yaptıklarını ve gelecek için planlarını paylaştı. Ekibin köy okullarında öğretmenlerle ve çocuklarla nasıl bağlantı kurduğunu ve kırsaldaki sorunları ihtiyaca yönelik çözmeye çalışmasını konuştuğumuz podcast bölümünde kırsaldaki eğitimi tartışmaya açtık. KODA'nın çalışmalarına dair diğer tüm merak ettikleriniz kayıtta! 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Köy Okullar Değişim Ağı Twitter hesabı: @kodegisim</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast’in Köy Okulları Değişi…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast’in Köy Okulları Değişim Ağı’nı  konuk ettiği bölüm yayında! Köy okullarında eğitimin kalitesini artırmak için gönüllülerin bir araya getirdiği KODA ekibinden Menekşe Canatan yayında bizlerle KODA’nın çalışmalarını, pandemi sürecinde neler yaptıklarını ve gelecek için planlarını paylaştı. Ekibin köy okullarında öğretmenlerle ve çocuklarla nasıl bağlantı kurduğunu ve kırsaldaki sorunları ihtiyaca yönelik çözmeye çalışmasını konuştuğumuz podcast bölümünde kırsaldaki eğitimi tartışmaya açtık. KODA'nın çalışmalarına dair diğer tüm merak ettikleriniz kayıtta! 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Köy Okullar Değişim Ağı Twitter hesabı: @kodegisim</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/870122701-cevrimici-cocukluk-koy-okullari-degisim-agi-kirsaldaki-egitim.mp3" length="53982720"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-lzrhzb8Zrm5z19Fe-Zc6tfA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/867939826</guid>
+      <title>Çevrimiçi Çocukluk: Sosyal Duygusal Beceriler ve Psikososyal Destek</title>
+      <pubDate>Fri, 31 Jul 2020 16:02:35 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-sosyal-duygusal-beceriler-ve-psikososyal-destek</link>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast bu bölümde dijital eğitimde sosyal duygusal beceriler ve psikososyal destek konusunu gündeme getiriyor. Sosyal ve duygusal becerilerin tanımı, kapsayıcı okul modeli örnekleri,  pandemi sürecinde eğitimde çocuklara sosyal ve duygusal becerilerin nasıl aktarıldığı ve merak ettiğiniz diğer konuları tartışmaya açtığımız podcast kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast bu bölümde dijital eği…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast bu bölümde dijital eğitimde sosyal duygusal beceriler ve psikososyal destek konusunu gündeme getiriyor. Sosyal ve duygusal becerilerin tanımı, kapsayıcı okul modeli örnekleri,  pandemi sürecinde eğitimde çocuklara sosyal ve duygusal becerilerin nasıl aktarıldığı ve merak ettiğiniz diğer konuları tartışmaya açtığımız podcast kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/867939826-cevrimici-cocukluk-cevrimici-cocukluk-sosyal-duygusal-beceriler-ve-psikososyal-destek.mp3" length="29892960"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-lzrhzb8Zrm5z19Fe-Zc6tfA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/865924426</guid>
+      <title>Maya Vakfı: Çocuğu Çevreleyen Mekanizmayı Güçlendirmek</title>
+      <pubDate>Tue, 28 Jul 2020 12:40:25 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/maya-vakfi-cocugu-cevreleyen-mekanizmayi-guclendirmek</link>
+      <itunes:duration>00:18:21</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast’in bu bölümünde Maya Vakfı ekibinden Bediz Büke İren Yıldızca konuğumuz oldu! Psikolojik iyileşme becerileri ve sanat terapisi metotları ile geliştirdiği program kapsamında çocuklara rehabilitasyon desteği veren Maya Vakfı’nı tanıdığımız kayıtta, travmaya maruz kalan çocuklarla olan çalışmalarını, çocuğa değen aktörleri destekleme mekanizmalarını konuştuk. Maya Vakfı’nın dijitalleşme sürecinde ekonomik dezavantajlı gruplara ulaşmak için neler yaptıkları, Maya Vakfı'nın deneyimlerine göre öğretmenlerin psikolojik desteğe ihtiyaç duyduğunu düşündüğü öğrencileri nereye yönlendirmesi gerektiği ve diğer tüm merak ettikleriniz kayıtta!
+ 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Maya Vakfı Twitter hesabı: @MayaVakfi</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast’in bu bölümünde Maya V…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast’in bu bölümünde Maya Vakfı ekibinden Bediz Büke İren Yıldızca konuğumuz oldu! Psikolojik iyileşme becerileri ve sanat terapisi metotları ile geliştirdiği program kapsamında çocuklara rehabilitasyon desteği veren Maya Vakfı’nı tanıdığımız kayıtta, travmaya maruz kalan çocuklarla olan çalışmalarını, çocuğa değen aktörleri destekleme mekanizmalarını konuştuk. Maya Vakfı’nın dijitalleşme sürecinde ekonomik dezavantajlı gruplara ulaşmak için neler yaptıkları, Maya Vakfı'nın deneyimlerine göre öğretmenlerin psikolojik desteğe ihtiyaç duyduğunu düşündüğü öğrencileri nereye yönlendirmesi gerektiği ve diğer tüm merak ettikleriniz kayıtta!
+ 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Maya Vakfı Twitter hesabı: @MayaVakfi</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/865924426-cevrimici-cocukluk-maya-vakfi-cocugu-cevreleyen-mekanizmayi-guclendirmek.mp3" length="44046720"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-lzrhzb8Zrm5z19Fe-Zc6tfA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/863123074</guid>
+      <title>Eğitim Reformu Girişimi: Eğitimde Yapısal Dönüşüm ve Sürdürülebilir Dijital Eğitim</title>
+      <pubDate>Thu, 23 Jul 2020 15:47:56 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/egitim-reformu-girisimi-egitimde-yapisal-donusum-ve-surdurulebilir-dijital-egitim</link>
+      <itunes:duration>00:16:09</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast’in bu bölümünde Eğitim Reformu Girişimi ekibinden Merve Mert konuğumuz oldu! Eğitim politikalarını izleyen ve politika yapım süreçlerine katkı yapmayı amaçlayan ERG’nin faaliyetlerini tanıdığımız kayıtta, sivil toplumun rolünü, dijital eğitimde çocuk haklarını ve çocuk öznesini merkeze alan sürdürülebilir dijital eğitim araçlarını konuştuk. Bu sıralar (3 Temmuz-14 Ağustos 2020) eğitim alanında çalışan paydaşları Eğitimde İyi Örnekler Konferansında bir araya getiren ERG’nin faaliyetlerini Youtube’dan takip edebilirsiniz.
+ 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Eğitim Reformu Girişimi Twitter hesabı: @egitimreformu
+Eğitim Reformu Girişimi Youtube  hesabı: https://www.youtube.com/results?search_query=ERG</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast’in bu bölümünde Eğitim…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast’in bu bölümünde Eğitim Reformu Girişimi ekibinden Merve Mert konuğumuz oldu! Eğitim politikalarını izleyen ve politika yapım süreçlerine katkı yapmayı amaçlayan ERG’nin faaliyetlerini tanıdığımız kayıtta, sivil toplumun rolünü, dijital eğitimde çocuk haklarını ve çocuk öznesini merkeze alan sürdürülebilir dijital eğitim araçlarını konuştuk. Bu sıralar (3 Temmuz-14 Ağustos 2020) eğitim alanında çalışan paydaşları Eğitimde İyi Örnekler Konferansında bir araya getiren ERG’nin faaliyetlerini Youtube’dan takip edebilirsiniz.
+ 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Eğitim Reformu Girişimi Twitter hesabı: @egitimreformu
+Eğitim Reformu Girişimi Youtube  hesabı: https://www.youtube.com/results?search_query=ERG</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/863123074-cevrimici-cocukluk-egitim-reformu-girisimi-egitimde-yapisal-donusum-ve-surdurulebilir-dijital-egitim.mp3" length="38800800"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-ejuJKFtP1RSRc4It-RWW2KA-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/858945547</guid>
+      <title>Çevrimiçi Çocukluk: Dijital Eğitimde Özel Hayatın Gizliliği</title>
+      <pubDate>Thu, 16 Jul 2020 12:27:08 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-dijital-egitimde-ozel-hayatin-gizliligi</link>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dijital eğitim yöntemleri özel hayatın gizliliği için risk oluşturur mu? Çevrimiçi Çocukluk Podcast’in yeni bölümünde pandemi sürecinde biraz göz ardı edilen ama oldukça önemli olduğunu düşündüğümüz dijital eğitimde özel hayatın gizliliği konusunu ele aldık. Veli, çocuk ve öğretmenlerin çevrimiçi gizliliğini tartışmaya açtığımız bölüm kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</itunes:summary>
+      <itunes:subtitle>Dijital eğitim yöntemleri özel hayatın gizliliği …</itunes:subtitle>
+      <description>Dijital eğitim yöntemleri özel hayatın gizliliği için risk oluşturur mu? Çevrimiçi Çocukluk Podcast’in yeni bölümünde pandemi sürecinde biraz göz ardı edilen ama oldukça önemli olduğunu düşündüğümüz dijital eğitimde özel hayatın gizliliği konusunu ele aldık. Veli, çocuk ve öğretmenlerin çevrimiçi gizliliğini tartışmaya açtığımız bölüm kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/858945547-cevrimici-cocukluk-cevrimici-cocukluk-dijital-egitimde-ozel-hayatin-gizliligi.mp3" length="13260960"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/857139481</guid>
+      <title>Öğrenmeyi Eğlenceli Hale Getirmek: Öğrenme Tasarımları</title>
+      <pubDate>Mon, 13 Jul 2020 13:07:51 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/ogrenmeyi-eglenceli-hale-getirmek-ogrenme-tasarimlari</link>
+      <itunes:duration>00:14:30</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast’in bu bölümünde sosyal bir girişim olan Öğrenme Tasarımları ekibinden Nurşah Yılmaz ve Şule Çankaya’yı konuk ediyoruz. Çocuk katılımını tasarladıkları oyunlarla güçlendirmeyi hedefleyen Öğrenme Tasarımları’nın hak temelli çalışmaları, farklı gruplara hitap eden eğitimleri ve diğer tüm merak ettikleriniz kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Öğrenme Tasarımları Twitter hesabı: @ogrenmet</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast’in bu bölümünde sosyal…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast’in bu bölümünde sosyal bir girişim olan Öğrenme Tasarımları ekibinden Nurşah Yılmaz ve Şule Çankaya’yı konuk ediyoruz. Çocuk katılımını tasarladıkları oyunlarla güçlendirmeyi hedefleyen Öğrenme Tasarımları’nın hak temelli çalışmaları, farklı gruplara hitap eden eğitimleri ve diğer tüm merak ettikleriniz kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Öğrenme Tasarımları Twitter hesabı: @ogrenmet</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/857139481-cevrimici-cocukluk-ogrenmeyi-eglenceli-hale-getirmek-ogrenme-tasarimlari.mp3" length="34807680"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/856110340</guid>
+      <title>Çevrimiçi Çocukluk: Eğitimde Verim, Katılım ve Çocuğu İçine Almayan Süreç</title>
+      <pubDate>Sat, 11 Jul 2020 12:21:07 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-egitimde-verim-katilim-ve-cocugu-icine-almayan-surec</link>
+      <itunes:duration>00:06:05</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast'in bu bölümünde eğitimde verim, katılım ve etki kavramlarını ele alıyoruz. Türkiye'de dijital eğitimin çocuk öznesinin katılımına uygunluğunu tartıştığımız Eğitimde Verim, Katılım ve Çocuğu İçine Almayan Süreç adlı öğretmenlerle görüşmelerimizden elde ettiğimiz gözlemlerimizi aktardığımız bölüm kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast'in bu bölümünde eğitim…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast'in bu bölümünde eğitimde verim, katılım ve etki kavramlarını ele alıyoruz. Türkiye'de dijital eğitimin çocuk öznesinin katılımına uygunluğunu tartıştığımız Eğitimde Verim, Katılım ve Çocuğu İçine Almayan Süreç adlı öğretmenlerle görüşmelerimizden elde ettiğimiz gözlemlerimizi aktardığımız bölüm kayıtta!
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/856110340-cevrimici-cocukluk-cevrimici-cocukluk-egitimde-verim-katilim-ve-cocugu-icine-almayan-surec.mp3" length="14620320"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/854891845</guid>
+      <title>Mekânı Dijitale Taşımak: İKSV Alt Kat ve Pandemi Süreci</title>
+      <pubDate>Thu, 09 Jul 2020 12:40:59 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/mekani-dijitale-tasimak-iksv-alt-kat-ve-pandemi-sureci</link>
+      <itunes:duration>00:18:29</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast’in bu bölümünde çocuğun iyi olma halini sanatla güçlendirmeyi hedefleyen İKSV Alt Kat’ın yöneticisi Elif Obdan Gürkan konuğumuz oldu. Pandemi sürecinde kültür ve sanat etkinliklerine erişimi dezavantajlı olan çocuklarla dijital ortamda buluşan İKSV Alt Kat’ın hikayesi kayıtta! Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1 İKSV Alt Kat Twitter hesabı: @iksvaltkat</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast’in bu bölümünde çocuğu…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast’in bu bölümünde çocuğun iyi olma halini sanatla güçlendirmeyi hedefleyen İKSV Alt Kat’ın yöneticisi Elif Obdan Gürkan konuğumuz oldu. Pandemi sürecinde kültür ve sanat etkinliklerine erişimi dezavantajlı olan çocuklarla dijital ortamda buluşan İKSV Alt Kat’ın hikayesi kayıtta! Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1 İKSV Alt Kat Twitter hesabı: @iksvaltkat</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/854891845-cevrimici-cocukluk-mekani-dijitale-tasimak-iksv-alt-kat-ve-pandemi-sureci.mp3" length="44364960"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/852999433</guid>
+      <title>Dijital Ortamda Eğitim Desteği: Bambu Gönüllü Eğitim Platformu Kimdir?</title>
+      <pubDate>Mon, 06 Jul 2020 10:58:43 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/dijital-ortamda-egitim-destegi-bambu-gonullu-egitim-platformu-kimdir</link>
+      <itunes:duration>00:13:19</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimiçi Çocukluk Podcast'in bu bölümünde ekibimiz Bambu Eğitim Platformu kurucularından Akın Günaydın, Batuhan Pamukçu ve Safa Kaya ile birlikte eğitimde fırsat eşitsizliğini azaltmayı amaçlayan Bambu Gönüllü Eğitim Platformu'nu tanıyor. Platformun etkinliklerinin detayları, yaz festivali planları ve diğer merak ettikleriniz kayıtta! 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Bambu Gönüllü Eğitim Platformu Twitter hesabı: @BambuEgitim</itunes:summary>
+      <itunes:subtitle>Çevrimiçi Çocukluk Podcast'in bu bölümünde ekibim…</itunes:subtitle>
+      <description>Çevrimiçi Çocukluk Podcast'in bu bölümünde ekibimiz Bambu Eğitim Platformu kurucularından Akın Günaydın, Batuhan Pamukçu ve Safa Kaya ile birlikte eğitimde fırsat eşitsizliğini azaltmayı amaçlayan Bambu Gönüllü Eğitim Platformu'nu tanıyor. Platformun etkinliklerinin detayları, yaz festivali planları ve diğer merak ettikleriniz kayıtta! 
+Çevrimiçi Çocukluk Twitter hesabı: @cevrimicicocuk1
+Bambu Gönüllü Eğitim Platformu Twitter hesabı: @BambuEgitim</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/852999433-cevrimici-cocukluk-dijital-ortamda-egitim-destegi-bambu-gonullu-egitim-platformu-kimdir.mp3" length="31995360"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/849737452</guid>
+      <title>Çevrimiçi Çocukluk: Dijital Okuryazarlık</title>
+      <pubDate>Tue, 30 Jun 2020 17:32:15 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-dijital-okuryazarlik</link>
+      <itunes:duration>00:07:07</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimi Çocukluk’un Dijital Okuryazarlık adını verdiği podcast bölümü yayında! Bu bölümde dijital okuryazarlığın tanımını ve pandemi sürecinde online eğitime katılan öğrencilerin, öğretmenlerin ve ebeveynlerin dijital becerilerini ele alıyoruz.</itunes:summary>
+      <itunes:subtitle>Çevrimi Çocukluk’un Dijital Okuryazarlık adını ve…</itunes:subtitle>
+      <description>Çevrimi Çocukluk’un Dijital Okuryazarlık adını verdiği podcast bölümü yayında! Bu bölümde dijital okuryazarlığın tanımını ve pandemi sürecinde online eğitime katılan öğrencilerin, öğretmenlerin ve ebeveynlerin dijital becerilerini ele alıyoruz.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/849737452-cevrimici-cocukluk-cevrimici-cocukluk-dijital-okuryazarlik.mp3" length="17087040"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-tisgrhosNfD4UjBy-UTMzSQ-t3000x3000.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/848094391</guid>
+      <title>Çevrimiçi Çocukluk: Online Eğitim ve Ekonomik Dezavantajlı Gruplar</title>
+      <pubDate>Sat, 27 Jun 2020 22:58:17 +0000</pubDate>
+      <link>https://soundcloud.com/cevrimici-cocukluk/cevrimici-cocukluk-online-egitim-ve-ekonomik-dezavantajli-gruplar</link>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:author>Cevrimici Cocukluk</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Çevrimi Çocukluk’un Online Eğitim ve Ekonomik Dezavantajlı Gruplar adını verdiği podcast bölümü yayında! İlk bölümde pandemi sürecinde ekonomik sebeplerden dolayı online eğitimden dışlanan grupları ve  buna bağlı olarak eğitime erişememe, çocuk işçiliği, çok çocuklu evler gibi konuları merkeze alıyoruz.</itunes:summary>
+      <itunes:subtitle>Çevrimi Çocukluk’un Online Eğitim ve Ekonomik Dez…</itunes:subtitle>
+      <description>Çevrimi Çocukluk’un Online Eğitim ve Ekonomik Dezavantajlı Gruplar adını verdiği podcast bölümü yayında! İlk bölümde pandemi sürecinde ekonomik sebeplerden dolayı online eğitimden dışlanan grupları ve  buna bağlı olarak eğitime erişememe, çocuk işçiliği, çok çocuklu evler gibi konuları merkeze alıyoruz.</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/848094391-cevrimici-cocukluk-cevrimici-cocukluk-online-egitim-ve-ekonomik-dezavantajli-gruplar.mp3" length="4094830"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-4QOS7i1VKLX0Nqny-Vu14ig-t3000x3000.jpg"/>
     </item>
-    <!-- Add new items for new episodes-->
-  </channel>
-</rss>
+      </channel>
+    </rss>
