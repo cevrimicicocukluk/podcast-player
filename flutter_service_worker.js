@@ -19,7 +19,7 @@ const RESOURCES = {
 "img/icon.jpg": "94f0661dff7e92728faa83cd52a24831",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "img/icon.png": "bb5a7b3aa2c2c1d268dc631f5e99fe42",
-"feed.xml": "761a126cd9c97d55ad1354499efcf8a5",
+"feed.xml": "dd7cbf2b15a64669221e8a9c99bf1361",
 "icons/Icon-512.png": "bb5a7b3aa2c2c1d268dc631f5e99fe42",
 "icons/Icon-192.png": "bb5a7b3aa2c2c1d268dc631f5e99fe42"
 };
