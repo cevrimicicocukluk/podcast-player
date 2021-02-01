@@ -29,7 +29,24 @@
         </image>
         <itunes:category text="Society &amp; Culture"/>
         <!-- NEW EPISODES HERE -->
-            
+            <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/976837930</guid>
+      <title>Çevrimiçi Çocukluk: Sezon Finali</title>
+      <pubDate>Mon, 01 Feb 2021 11:55:43 +0000</pubDate>
+      <link>https://soundcloud.com/user-82219199/cevrimici-cocukluk-sezon-finali</link>
+      <itunes:duration>00:15:32</itunes:duration>
+      <itunes:author>Online Childhood</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Diğer bölümlerimizden farklı olarak, bu bölümde bir değerlendirme yapmayı düşündük. Altı ayı aşan bir süreçte neler ile karşılaştığımızı eğitim ile alakalı bir podcast yayıncılığı yapmayı, özeleştirimizi, son sezonumuzda neler yaptığımızı, özel eğitim öğretmenlerinden aldığımız geribildirimleri, sivil toplum ve yeni kamusal alan için kendi gözlemlerimizi aktarmak istiyoruz.
+
+Çevrimiçi Çocukluk Twitter Hesabı: @cevrimicicocuk1</itunes:summary>
+      <itunes:subtitle>Diğer bölümlerimizden farklı olarak, bu bölümde b…</itunes:subtitle>
+      <description>Diğer bölümlerimizden farklı olarak, bu bölümde bir değerlendirme yapmayı düşündük. Altı ayı aşan bir süreçte neler ile karşılaştığımızı eğitim ile alakalı bir podcast yayıncılığı yapmayı, özeleştirimizi, son sezonumuzda neler yaptığımızı, özel eğitim öğretmenlerinden aldığımız geribildirimleri, sivil toplum ve yeni kamusal alan için kendi gözlemlerimizi aktarmak istiyoruz.
+
+Çevrimiçi Çocukluk Twitter Hesabı: @cevrimicicocuk1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/976837930-user-82219199-cevrimici-cocukluk-sezon-finali.mp3" length="29832173"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-JmTO5IaA4fF2wbJA-yJNYLw-t3000x3000.jpg"/>
+    </item>
             <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/941588440</guid>
       <title>Parıltı Görmeyen Çocuklara Destek Derneği: Eşit ve Erişilebilir Eğitim</title>

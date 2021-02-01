@@ -20,7 +20,7 @@ const RESOURCES = {
 "img/icon.jpg": "94f0661dff7e92728faa83cd52a24831",
 "img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "favicon.png": "bb5a7b3aa2c2c1d268dc631f5e99fe42",
-"feed.xml": "4a9ee226e88986ea934d9f754775deef",
+"feed.xml": "c5cb16c3142b9b0050262f344bff1feb",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555"
 };
 
