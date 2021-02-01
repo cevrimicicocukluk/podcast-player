@@ -29,34 +29,7 @@
         </image>
         <itunes:category text="Society &amp; Culture"/>
         <!-- NEW EPISODES HERE -->
-            <channel>
-        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:941731273/sounds.rss" rel="self" type="application/rss+xml"/>
-        
-        <title>Online Childhood</title>
-        <link>https://soundcloud.com/user-82219199</link>
-        <pubDate>Mon, 01 Feb 2021 10:26:20 +0000</pubDate>
-        <lastBuildDate>Mon, 01 Feb 2021 10:26:20 +0000</lastBuildDate>
-        <ttl>60</ttl>
-        <language>en</language>
-        <copyright>All rights reserved</copyright>
-        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
-        <description>Podcast by Online Childhood</description>
-        <itunes:subtitle>Podcast by Online Childhood</itunes:subtitle>
-        <itunes:owner>
-          <itunes:name>Online Childhood</itunes:name>
-          <itunes:email>feeds@soundcloud.com</itunes:email>
-        </itunes:owner>
-        <itunes:author>Online Childhood</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://i1.sndcdn.com/avatars-000958090972-eqyiss-original.png"/>
-        <image>
-          <url>https://i1.sndcdn.com/avatars-000958090972-eqyiss-original.png</url>
-          <title>Online Childhood</title>
-          <link>https://soundcloud.com/user-82219199</link>
-        </image>
-        
-        
-      </channel>
+            
             <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/941588440</guid>
       <title>Parıltı Görmeyen Çocuklara Destek Derneği: Eşit ve Erişilebilir Eğitim</title>
